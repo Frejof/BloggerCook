@@ -1,0 +1,22 @@
+json
+{
+  "recipes": [
+    {
+      "day": "day1",
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200g Spaghetti",
+        "100g Pancetta",
+        "2 Eggs",
+        "50g Parmesan cheese",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Boil the pasta. Cook the pancetta. Combine with eggs and cheese.",
+      "imageUrl": "https://via.placeholder.com/300x200?text=Spaghetti+Carbonara",
+      "cuisine": "Italian"
+    }
+  ],
+  "comments": []
+}
